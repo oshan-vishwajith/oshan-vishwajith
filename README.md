@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan-vishwajit&color=brightgreen" alt="oshan-vishwajit" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan-vishwajith&color=brightgreen" alt="oshan-vishwajith" /> </p>
 
 <hr>
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
@@ -80,4 +80,4 @@ Here are some ideas to get you started:
 <br />
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Nayanajith" alt="Matheesha-Nayanajith" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajit&" alt="oshan-vishwajit" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajith&" alt="oshan-vishwajith" /></p>
