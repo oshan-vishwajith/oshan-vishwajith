@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 -->
 
 ![Oshan's github stats](https://github-readme-stats.vercel.app/api?username=oshan-vishwajith&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshan-vishwajit&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshan-vishwajith&layout=compact&langs_count=8&theme=light)
 
 <br />
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Nayanajith" alt="Matheesha-Nayanajith" /></a> </p> -->
