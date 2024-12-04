@@ -1,4 +1,4 @@
-## Hi there 👋
+### Hi there :wave: I am Oshan Vishwajith
 
 <!--
 **oshan-vishwajith/oshan-vishwajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,26 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there :wave: I am Oshan Vishwajith
 
 <img align="center" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheesha-Nayanajith&color=brightgreen" alt="Matheesha-Nayanajith" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan-vishwajit&color=brightgreen" alt="oshan-vishwajit" /> </p>
 
-<!--
-Matheesha-Nayanajith/Matheesha-Nayanajith is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently an undergraduate of <b>NSBM Green University</b>
-- 🌱 I’m currently learning <b>Business Analytics,</b><b>Web Applications Development</b> & <b>Mobile Applications Development</b>
-- 👯 I’m looking to collaborate on <b>Open Source Projects</b>
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡️ Fun fact: ...
--->
 <hr>
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
 -  :computer: I’m currently learning <b>Business Analytics,</b><b>Web Applications Development</b> & <b>Mobile Applications Development</b><br>
@@ -89,10 +74,10 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 -->
 
-![Oshan's github stats](https://github-readme-stats.vercel.app/api?username=Matheesha-Nayanajith&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheesha-Nayanajith&layout=compact&langs_count=8&theme=light)
+![Oshan's github stats](https://github-readme-stats.vercel.app/api?username=oshan-vishwajith&layout=compact&langs_count=8&theme=light)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshan-vishwajit&layout=compact&langs_count=8&theme=light)
 
 <br />
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Nayanajith" alt="Matheesha-Nayanajith" /></a> </p> -->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Matheesha-Nayanajith&" alt="Matheesha-Nayanajith" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajit&" alt="oshan-vishwajit" /></p>
