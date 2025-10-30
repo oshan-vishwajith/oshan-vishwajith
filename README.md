@@ -26,6 +26,9 @@ Here are some ideas to get you started:
 -----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan-vishwajith&color=brightgreen" alt="oshan-vishwajith" /> </p>
+[![GitHub followers](https://img.shields.io/github/followers/oshan-vishwajith?label=follow&style=social)](https://github.com/oshan-vishwajith)&nbsp;
+
+
 
 <hr>
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
