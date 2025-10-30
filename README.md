@@ -84,12 +84,6 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Oshan's Github Stats</h1>
-
-<div align="center">
-  
-[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajith&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
- </div>
  
  
 <img align="left" alt="Oshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oshan-vishwajith&&show_icons=true&theme=dark" width="50%" />
@@ -98,5 +92,4 @@ Here are some ideas to get you started:
 
 <br />
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Nayanajith" alt="Matheesha-Nayanajith" /></a> </p> -->
-
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajith&" alt="oshan-vishwajith" /></p>-->
