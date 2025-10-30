@@ -26,8 +26,6 @@ Here are some ideas to get you started:
 -----
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan-vishwajith&color=brightgreen" alt="oshan-vishwajith" /> </p>
-[![GitHub followers](https://img.shields.io/github/followers/oshan-vishwajith?label=follow&style=social)](https://github.com/oshan-vishwajith)&nbsp;
-
 
 
 <hr>
@@ -85,8 +83,18 @@ Here are some ideas to get you started:
   <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 -->
 
-![Oshan's github stats](https://github-readme-stats.vercel.app/api?username=oshan-vishwajith&layout=compact&langs_count=8&theme=light)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oshan-vishwajith&layout=compact&langs_count=8&theme=light)
+<h1 align="center">Oshan's Github Stats</h1>
+
+<div align="center">
+  
+[![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajith&theme=highcontrast)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+ </div>
+ 
+ 
+<img align="left" alt="Oshan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=oshan-vishwajith&&show_icons=true&theme=dark" width="50%" />
+<img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshan-vishwajith&layout=compact&theme=dark" width="46%" />
+<br>
 
 <br />
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Nayanajith" alt="Matheesha-Nayanajith" /></a> </p> -->
