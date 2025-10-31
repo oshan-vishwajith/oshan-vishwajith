@@ -36,11 +36,14 @@ Here are some ideas to get you started:
 
 
 <hr>
--  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
--  :computer: I’m currently learning <b>Business Analytics,</b><b>Web Applications Development</b> & <b>Mobile Applications Development</b><br>
--  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b><br>
-- 🌱 Expanding my skills in <b/>Data Engineering</b><br>
-- 💡 Always eager to collaborate on innovative projects
+
+- 🎓 &nbsp;I’m currently an undergraduate at <b>NSBM Green University</b><br>
+- 💻 &nbsp;Learning <b>Data Engineering, Business Analytics, Web Development,</b> and <b>Mobile Application Development</b><br>
+- 🚀 &nbsp;Passionate about building <b>data-driven solutions</b> and optimizing <b>data pipelines</b><br>
+- 🌱 &nbsp;Continuously expanding my skills in <b>Big Data, Cloud Technologies,</b> and <b>Machine Learning</b><br>
+- 🤝 &nbsp;Open to collaborating on <b>Open Source</b> and <b>Real-World Data Projects</b><br>
+- 💡 &nbsp;Always exploring innovative ideas to turn <b>data into insights</b>
+
 
 
 <br>
