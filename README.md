@@ -140,9 +140,7 @@ Here are some ideas to get you started:
 
 ---
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
-</div>
+
 
 <div align="center">
   <h3>💭 Random Dev Quote</h3>
@@ -158,3 +156,6 @@ Thanks for visiting my profile! Have a great day! 😊
 </div>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Nayanajith" alt="Matheesha-Nayanajith" /></a> </p> -->
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajith&" alt="oshan-vishwajith" /></p>-->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+</div>
