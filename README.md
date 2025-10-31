@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oshan-vishwajith&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/oshan-vishwajith?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
+  <img src="https://img.shields.io/github/followers/oshan-vishwajith?label=Followers&style=for-the-badge&color=00d9ff" />
 </p>
 
 
