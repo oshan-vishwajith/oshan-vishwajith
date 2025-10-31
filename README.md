@@ -1,8 +1,5 @@
-# Hi there :wave: I am Oshan Vishwajith
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Passionate+Data+Engineer;From+Beautiful+Sri+Lanka;Building+Scalable+Data+Pipelines+and+ETL+Workflows;SQL+%E2%80%A2+Python+%E2%80%A2+Spark+%E2%80%A2+Airflow" alt="Typing SVG" />
-</div>
+# Hi there 👋👋 
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I+am+Oshan+Vishwajith)
 
 <!--
 **oshan-vishwajith/oshan-vishwajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -28,6 +25,12 @@ Here are some ideas to get you started:
 </p>
 
 -----
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Passionate+Data+Engineer;From+Beautiful+Sri+Lanka;Building+Scalable+Data+Pipelines+and+ETL+Workflows;SQL+%E2%80%A2+Python+%E2%80%A2+Spark+%E2%80%A2+Airflow" alt="Typing SVG" />
+</div>
+
+----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=oshan-vishwajith&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
