@@ -1,4 +1,8 @@
-### Hi there :wave: I am Oshan Vishwajith
+# Hi there :wave: I am Oshan Vishwajith
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Passionate+Data+Engineer;From+Beautiful+Sri+Lanka;Building+Scalable+Data+Pipelines+and+ETL+Workflows;SQL+%E2%80%A2+Python+%E2%80%A2+Spark+%E2%80%A2+Airflow" alt="Typing SVG" />
+</div>
 
 <!--
 **oshan-vishwajith/oshan-vishwajith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,13 +29,23 @@ Here are some ideas to get you started:
 
 -----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oshan-vishwajith&color=brightgreen" alt="oshan-vishwajith" /> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=oshan-vishwajith&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/oshan-vishwajith?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
+</p>
 
 
 <hr>
 -  :mortar_board: I’m currently an undergraduate of <b>NSBM Green University</b><br>
 -  :computer: I’m currently learning <b>Business Analytics,</b><b>Web Applications Development</b> & <b>Mobile Applications Development</b><br>
--  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b>
+-  :star2: I’m looking to collaborate on <b>Open Source Projects and Commercial Projects</b><br>
+- 🌱 Expanding my skills in <b/>Data Engineering</b><br>
+- 💡 Always eager to collaborate on innovative projects
+
+
+<br>
+<br>
+
 
 ### Languages and Tools:
 <p>
@@ -90,6 +104,57 @@ Here are some ideas to get you started:
 <img alt="Top Languages used" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oshan-vishwajith&layout=compact&theme=dark" width="46%" />
 <br>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oshan-vishwajith&theme=tokyo-night&bg_color=0D1117&hide_border=true" width="100%"/>
+</div>
+
 <br />
+
+---
+
+## 🎯 Current Goals
+
+- 🚀 Master modern data technologies and cloud platforms
+
+- 🧠 Design and optimize scalable data pipelines
+
+- 🧩 Build and manage data warehouses and ETL workflows
+
+- 📊 Share insights through analytics and visualization projects
+
+- 🤝 Contribute to open-source data engineering tools
+
+- 🌍 Connect with data professionals and AI enthusiasts worldwide
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshan-vishwajith/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1ANKfTJxhk/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oshanvishwajith2002@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
+</div>
+
+<div align="center">
+  <h3>💭 Random Dev Quote</h3>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</div>
+
+<div align="center">
+  
+**“Walking on water and developing software from a specification are easy if both are frozen.” – Edward V. Berard**
+
+Thanks for visiting my profile! Have a great day! 😊
+
+</div>
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Matheesha-Nayanajith" alt="Matheesha-Nayanajith" /></a> </p> -->
 <!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oshan-vishwajith&" alt="oshan-vishwajith" /></p>-->
